@@ -1,0 +1,21 @@
+{
+  "name": "linktechnapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node App.js",
+    "dev": "nodemon App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "6.3",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2",
+    "react-router-dom": "^6.21.1"
+  },
+  "description": ""
+}
